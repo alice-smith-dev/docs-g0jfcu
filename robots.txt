@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ctkil5.kujang138gold.online/sitemap.xml
